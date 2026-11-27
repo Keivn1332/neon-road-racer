@@ -4,6 +4,8 @@
 
 ## 開始遊玩
 
+線上遊玩：[霓虹公路](https://keivn1332.github.io/neon-road-racer/)
+
 直接以瀏覽器開啟 [`outputs/index.html`](outputs/index.html)。
 
 - 桌面：使用 `←` / `→` 或 `A` / `D` 換道。

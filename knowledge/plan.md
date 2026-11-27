@@ -8,8 +8,10 @@
 
 ### 目前狀態
 
-- **第一版已完成**：遊戲已整理為單一 HTML 檔，可直接用瀏覽器開啟遊玩。
-- 已具備核心玩法與基本操作；後續擴充方向尚未討論，因此列為待決定。
+- **第一版已完成並發布**：遊戲可在 GitHub Pages 線上遊玩，也可直接以瀏覽器開啟單一 HTML 檔。
+- 公開 GitHub repository：[`Keivn1332/neon-road-racer`](https://github.com/Keivn1332/neon-road-racer)。
+- 線上遊戲：[霓虹公路](https://keivn1332.github.io/neon-road-racer/)。
+- 核心玩法、鍵盤與手機操作已完成；後續擴充方向尚未討論，因此列為待決定。
 
 ### 已完成
 
@@ -21,6 +23,9 @@
 - [x] 支援手機觸控按鈕與滑動換道。
 - [x] 提供開始與重新開始流程。
 - [x] 交付可直接開啟的遊戲檔案：[`outputs/index.html`](../outputs/index.html)。
+- [x] 建立公開 GitHub repository，並推送遊戲與專案文件。
+- [x] 設定 GitHub Pages 使用 GitHub Actions 發布。
+- [x] 確認 Actions 部署成功，線上頁面回應 HTTP 200。
 
 ### 尚待完成／待決定
 
